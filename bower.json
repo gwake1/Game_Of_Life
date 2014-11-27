@@ -1,0 +1,25 @@
+{
+  "name": "Game_Of_Life",
+  "version": "0.0.0",
+  "homepage": "https://github.com/gwake1/Game_Of_Life",
+  "authors": [
+    "Gerald A. Wakefield <gwake1@gmail.com>"
+  ],
+  "description": "Conway's Game of Life",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "mocha": "~2.0.1",
+    "chai": "~1.10.0",
+    "jquery": "~2.1.1",
+    "lodash": "~2.4.1"
+  }
+}
